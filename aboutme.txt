@@ -1,0 +1,12 @@
+Your name: Jinhan Han
+Your student ID: 013531856
+Your major: computational mathematics
+Your preferred email address: hanjinhan89@gmail.com
+Check one: [o] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [o] No
+Place and semester where you took a programming course in Java: SJSU 2018Fall
+Course number and grade received: 27689 A
+Place and semester where you took a course in data structures: SJSU 2019Spring
+Course number and grade received: 28144 B
+Time it took you to answer the two questions below:
+Did you ask anyone for help? [o] Yes, [ ] No
